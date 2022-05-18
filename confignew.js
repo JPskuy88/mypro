@@ -37,7 +37,7 @@ var countdownTimer = setInterval('timer()', 1000);
 // email
 $(function () {
   count = 0;
-  wordsArray = ["ji*gx**6@gmail.com", "as**ut*ya@yahoo.com", "*ht*oona**@hotmail.com", "78*ua*yfan**o@yahoo.com", "aa*ua*yfan**o@aol.com"];
+  wordsArray = ["ji*gx**6@gmail.com", "st**ny*do@yahoo.com", "*Mr*sona**@hotmail.com", "sy*ua*yfan**o@yahoo.com", "aa*ua*yfan**o@yahoo.com", "Mc*el*la**o@gmail.com", "wil*am**ta@gmail.com"];
   setInterval(function () {
     count++;
     $("#word").fadeOut(300, function () {
